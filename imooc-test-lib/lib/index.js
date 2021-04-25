@@ -5,7 +5,7 @@ module.exports = {
     module(a, b){
         return a * b; 
     },
-    init(){
-        console.log("execute init process!");
+    init({option, params}){
+        console.log("execute init process!", option, params);
     }
 };

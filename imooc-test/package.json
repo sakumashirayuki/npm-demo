@@ -1,6 +1,6 @@
 {
   "name": "imooc-test-wawaki",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "",
   "bin": {
     "imooc-test": "./bin/index.js"
@@ -12,6 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "imooc-test-lib": "^1.0.0"
+    "imooc-test-lib-wawaki": "^1.0.0"
   }
 }
