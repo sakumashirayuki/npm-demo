@@ -1,0 +1,17 @@
+{
+  "name": "imooc-test-wawaki",
+  "version": "1.0.1",
+  "description": "",
+  "bin": {
+    "imooc-test": "./bin/index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imooc-test-lib": "^1.0.0"
+  }
+}
